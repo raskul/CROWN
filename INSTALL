@@ -1,0 +1,9 @@
+Building Crown
+
+See doc/readme-qt.rst for instructions on building Crown-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Crown.
+
+See doc/build-*.txt for instructions on building Crownd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Crown.
